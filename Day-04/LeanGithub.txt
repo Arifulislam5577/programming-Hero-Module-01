@@ -9,3 +9,8 @@
 3)How to switch one branch to another?
 
 --> Switch one branch to another with command "git checkout [branch name]]"
+
+
+4)How to merge branch?
+
+--> Merge one branch to another with command "git merge [branch name]"
