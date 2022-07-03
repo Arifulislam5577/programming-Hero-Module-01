@@ -1,0 +1,11 @@
+1)How to see all branch?
+
+--> To see all branches with command "git branch".
+
+2)How to create a new branch?
+
+--> Create a new branch with command "git branch [branch name]".
+
+3)How to switch one branch to another?
+
+--> Switch one branch to another with command "git checkout [branch name]]"
