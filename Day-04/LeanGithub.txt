@@ -14,3 +14,7 @@
 4)How to merge branch?
 
 --> Merge one branch to another with command "git merge [branch name]"
+
+5)How to create a new branch and switch to this branch?
+
+--> Create a new branch and switch to this branch with command "git checkout -b [branch name]"
