@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: sans-serif;
+  font-weight: 400;
+  color: #222;
+  background-color: #f5f5f5;
+  padding: 3rem;
+}
+
+.container {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.box {
+  height: 15rem;
+  width: 15rem;
+  background: orangered;
+}
+
+.box.one {
+  background-color: orange;
+}
+
+.two {
+  background-color: #fff;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  display: flex;
+  gap: 1rem;
+  /* justify-content: space-between; */
+}
+
+.product {
+  flex-grow: 1;
+}
